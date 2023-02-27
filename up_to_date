@@ -1,1 +1,1 @@
-echo "Updated code for all branch" > README.md
+git pull
